@@ -1,4 +1,4 @@
-![Suraj Sangale - Frontend Developer](https://i.ibb.co/ks6LRLTS/lindine-banner.png)
+<img src="https://i.ibb.co/ks6LRLTS/lindine-banner.png" alt="Suraj Sangale - Frontend Developer" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Suraj Sangale</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
@@ -22,22 +22,22 @@
 
 ### 🚀 Tech Stack & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,mongodb,mysql,redis,html,css,tailwind,sass,git,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,redis,tailwind,sass,git,docker,aws" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sura-sangale&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sura-sangale&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sura-sangale&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sura-sangale&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sura-sangale&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sura-sangale&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
 </p>
 
 ---
@@ -47,7 +47,9 @@
   <a href="https://linkedin.com/in/suraj-sangale" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
- 
+  <a href="https://fb.com/suraj.sangale" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" height="40"/>
+  </a>
   <a href="https://instagram.com/____suraj____" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>
