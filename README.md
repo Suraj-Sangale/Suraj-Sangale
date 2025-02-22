@@ -27,19 +27,17 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sura-sangale&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
-</p>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sura-sangale&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/>
+<a href="https://github.com/Suraj-Sangale">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suraj-Sangale&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sura-sangale&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
-</p>
-
+<p align="left"> <a href="http://www.github.com/Suraj-Sangale"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Sangale&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
+  </a> </p>
+</div>
 ---
 
 ### 🌎 Connect with Me:
