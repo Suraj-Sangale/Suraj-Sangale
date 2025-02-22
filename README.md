@@ -4,8 +4,8 @@
 <h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sura-sangale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sura-sangale?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=suraj-sangale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/suraj-sangale?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
