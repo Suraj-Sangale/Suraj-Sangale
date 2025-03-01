@@ -19,25 +19,24 @@
 - 📄 View my resume: **[Resume](https://portfoliosurajsangale.netlify.app/)**
 
 ---
+## ⚙️ GitHub Analytics  
 
-### 🚀 Tech Stack & Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,redis,tailwind,sass,git,docker,aws" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
----
+  <a href="https://github.com/Suraj-Sangale">
+    <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suraj-Sangale&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
 
-### ⚙️ &nbsp;GitHub Analytics
+  <a href="https://github.com/Suraj-Sangale">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Sangale&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false"/>
+  </a>
 
-<p align="center">
-<a href="https://github.com/Suraj-Sangale">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suraj-Sangale&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+  <a href="https://github.com/Suraj-Sangale">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Sangale&theme=radical&langs_count=8&layout=compact" alt="Top Languages" height="180px"/>
+  </a>
 
-<p align="left"> <a href="http://www.github.com/Suraj-Sangale"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Sangale&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/> 
-  </a> </p>
 </div>
+
 ---
 
 ### 🌎 Connect with Me:
