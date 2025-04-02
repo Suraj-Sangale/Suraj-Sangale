@@ -6,8 +6,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suraj-sangale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen">
+    <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-success">
   <img src="https://img.shields.io/github/followers/suraj-sangale?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;FrontEnd+Developer;React+Developer;Node+Developer;MERN+Stack+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -15,7 +20,7 @@
 - 🔭 Currently innovating with **Next.js, React.js, and Node.js**
 - 🌱 Expanding my expertise in **Advanced Node.js, Redis, DevOps tools, and CI/CD**
 - 🚀 Passionate about **creating seamless digital experiences through intuitive UI/UX**
-- 👨‍💻 Explore my projects: **[Portfolio](https://portfoliosurajsangale.netlify.app/)**
+- 🌐 Check my Portfolio Website: [portfoliosurajsangale](https://portfoliosurajsangale.netlify.app/)
 - 📫 Let's connect: **surajdsangale@gmail.com**
 - 📄 View my resume: **[Resume](https://portfoliosurajsangale.netlify.app/)**
 
