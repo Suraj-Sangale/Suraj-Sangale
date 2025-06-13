@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ks6LRLTS/lindine-banner.png" alt="Suraj Sangale - Frontend Developer" width="100%" />
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Suraj Sangale - Frontend Developer" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Suraj Sangale</h1>
 <h3 align="center">🚀 A Passionate Frontend Developer from India</h3>
