@@ -20,9 +20,9 @@
 - 🔭 Currently innovating with **Next.js, React.js, and Node.js**
 - 🌱 Expanding my expertise in **Advanced Node.js, Redis, DevOps tools, and CI/CD**
 - 🚀 Passionate about **creating seamless digital experiences through intuitive UI/UX**
-- 🌐 Check my Portfolio Website: [portfoliosurajsangale](https://portfoliosurajsangale.netlify.app/)
+- 🌐 Check my Portfolio Website: [portfoliosurajsangale](https://surajsangale.vercel.app/)
 - 📫 Let's connect: **surajdsangale@gmail.com**
-- 📄 View my resume: **[Resume](https://portfoliosurajsangale.netlify.app/)**
+- 📄 View my resume: **[Resume](https://surajsangale.vercel.app/)**
 
 ---
 ## ⚙️ GitHub Analytics  
