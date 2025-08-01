@@ -33,9 +33,10 @@
     <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Suraj-Sangale&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 
-  <a href="https://github.com/Suraj-Sangale">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suraj-Sangale&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false"/>
-  </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=suraj-sangale&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+
 
   <a href="https://github.com/Suraj-Sangale">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-Sangale&theme=radical&langs_count=8&layout=compact" alt="Top Languages" height="180px"/>
