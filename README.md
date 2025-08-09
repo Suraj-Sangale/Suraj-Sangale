@@ -34,7 +34,7 @@
   </a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=surajsangale12&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suraj-sangale&theme=tokyonight-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 
